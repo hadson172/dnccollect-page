@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dnccollect-page/static/css/main.3525bd11.chunk.css",
+    "main.js": "/dnccollect-page/static/js/main.385ec55d.chunk.js",
+    "main.js.map": "/dnccollect-page/static/js/main.385ec55d.chunk.js.map",
+    "runtime-main.js": "/dnccollect-page/static/js/runtime-main.e972a03c.js",
+    "runtime-main.js.map": "/dnccollect-page/static/js/runtime-main.e972a03c.js.map",
+    "static/js/2.72a447e3.chunk.js": "/dnccollect-page/static/js/2.72a447e3.chunk.js",
+    "static/js/2.72a447e3.chunk.js.map": "/dnccollect-page/static/js/2.72a447e3.chunk.js.map",
+    "index.html": "/dnccollect-page/index.html",
+    "precache-manifest.b23f02756d05c6d897ab97eda5ed5fcd.js": "/dnccollect-page/precache-manifest.b23f02756d05c6d897ab97eda5ed5fcd.js",
+    "service-worker.js": "/dnccollect-page/service-worker.js",
+    "static/css/main.3525bd11.chunk.css.map": "/dnccollect-page/static/css/main.3525bd11.chunk.css.map",
+    "static/js/2.72a447e3.chunk.js.LICENSE.txt": "/dnccollect-page/static/js/2.72a447e3.chunk.js.LICENSE.txt",
+    "static/media/mobile-yt-video.png": "/dnccollect-page/static/media/mobile-yt-video.76d6045c.png",
+    "static/media/search-mobile.png": "/dnccollect-page/static/media/search-mobile.761e27d8.png",
+    "static/media/video-list.png": "/dnccollect-page/static/media/video-list.be4acd8c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e972a03c.js",
+    "static/js/2.72a447e3.chunk.js",
+    "static/css/main.3525bd11.chunk.css",
+    "static/js/main.385ec55d.chunk.js"
+  ]
+}
