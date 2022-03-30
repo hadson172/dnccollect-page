@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "777444c60ab4c5a0d11875be9fe47b6b",
+    "revision": "c2d3cfa40dcd84a8d1893e8d31017586",
     "url": "/dnccollect-page/index.html"
   },
   {
-    "revision": "b17c08a9d6d6ee291d38",
+    "revision": "ae0aab6251491d635e20",
     "url": "/dnccollect-page/static/css/main.6a56ca3d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dnccollect-page/static/js/2.ccf2559e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b17c08a9d6d6ee291d38",
-    "url": "/dnccollect-page/static/js/main.a2402b5b.chunk.js"
+    "revision": "ae0aab6251491d635e20",
+    "url": "/dnccollect-page/static/js/main.6cd72e64.chunk.js"
   },
   {
     "revision": "1e0f9688a4487502952b",

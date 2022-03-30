@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dnccollect-page/static/css/main.6a56ca3d.chunk.css",
-    "main.js": "/dnccollect-page/static/js/main.a2402b5b.chunk.js",
-    "main.js.map": "/dnccollect-page/static/js/main.a2402b5b.chunk.js.map",
+    "main.js": "/dnccollect-page/static/js/main.6cd72e64.chunk.js",
+    "main.js.map": "/dnccollect-page/static/js/main.6cd72e64.chunk.js.map",
     "runtime-main.js": "/dnccollect-page/static/js/runtime-main.e972a03c.js",
     "runtime-main.js.map": "/dnccollect-page/static/js/runtime-main.e972a03c.js.map",
     "static/js/2.ccf2559e.chunk.js": "/dnccollect-page/static/js/2.ccf2559e.chunk.js",
     "static/js/2.ccf2559e.chunk.js.map": "/dnccollect-page/static/js/2.ccf2559e.chunk.js.map",
     "index.html": "/dnccollect-page/index.html",
-    "precache-manifest.8f2c144a68b1fdeaaed3c08ca0fcfa49.js": "/dnccollect-page/precache-manifest.8f2c144a68b1fdeaaed3c08ca0fcfa49.js",
+    "precache-manifest.1bdaad08985748ea4d9fe0641bad9545.js": "/dnccollect-page/precache-manifest.1bdaad08985748ea4d9fe0641bad9545.js",
     "service-worker.js": "/dnccollect-page/service-worker.js",
     "static/css/main.6a56ca3d.chunk.css.map": "/dnccollect-page/static/css/main.6a56ca3d.chunk.css.map",
     "static/js/2.ccf2559e.chunk.js.LICENSE.txt": "/dnccollect-page/static/js/2.ccf2559e.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e972a03c.js",
     "static/js/2.ccf2559e.chunk.js",
     "static/css/main.6a56ca3d.chunk.css",
-    "static/js/main.a2402b5b.chunk.js"
+    "static/js/main.6cd72e64.chunk.js"
   ]
 }

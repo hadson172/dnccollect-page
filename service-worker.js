@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dnccollect-page/precache-manifest.8f2c144a68b1fdeaaed3c08ca0fcfa49.js"
+  "/dnccollect-page/precache-manifest.1bdaad08985748ea4d9fe0641bad9545.js"
 );
 
 self.addEventListener('message', (event) => {
