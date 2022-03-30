@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfda8307.chunk.css",
-    "main.js": "/static/js/main.41b8b92b.chunk.js",
-    "main.js.map": "/static/js/main.41b8b92b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b57b22ce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b57b22ce.js.map",
-    "static/js/2.54280d9a.chunk.js": "/static/js/2.54280d9a.chunk.js",
-    "static/js/2.54280d9a.chunk.js.map": "/static/js/2.54280d9a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fa28e2e579040550ae7989aa5f0789c7.js": "/precache-manifest.fa28e2e579040550ae7989aa5f0789c7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.cfda8307.chunk.css.map": "/static/css/main.cfda8307.chunk.css.map",
-    "static/js/2.54280d9a.chunk.js.LICENSE.txt": "/static/js/2.54280d9a.chunk.js.LICENSE.txt",
-    "static/media/mobile-yt-video.png": "/static/media/mobile-yt-video.76d6045c.png",
-    "static/media/search-mobile.png": "/static/media/search-mobile.761e27d8.png",
-    "static/media/video-list.png": "/static/media/video-list.be4acd8c.png"
+    "main.css": "/dnccollect-page/static/css/main.6a56ca3d.chunk.css",
+    "main.js": "/dnccollect-page/static/js/main.a2402b5b.chunk.js",
+    "main.js.map": "/dnccollect-page/static/js/main.a2402b5b.chunk.js.map",
+    "runtime-main.js": "/dnccollect-page/static/js/runtime-main.e972a03c.js",
+    "runtime-main.js.map": "/dnccollect-page/static/js/runtime-main.e972a03c.js.map",
+    "static/js/2.ccf2559e.chunk.js": "/dnccollect-page/static/js/2.ccf2559e.chunk.js",
+    "static/js/2.ccf2559e.chunk.js.map": "/dnccollect-page/static/js/2.ccf2559e.chunk.js.map",
+    "index.html": "/dnccollect-page/index.html",
+    "precache-manifest.8f2c144a68b1fdeaaed3c08ca0fcfa49.js": "/dnccollect-page/precache-manifest.8f2c144a68b1fdeaaed3c08ca0fcfa49.js",
+    "service-worker.js": "/dnccollect-page/service-worker.js",
+    "static/css/main.6a56ca3d.chunk.css.map": "/dnccollect-page/static/css/main.6a56ca3d.chunk.css.map",
+    "static/js/2.ccf2559e.chunk.js.LICENSE.txt": "/dnccollect-page/static/js/2.ccf2559e.chunk.js.LICENSE.txt",
+    "static/media/mobile-yt-video.png": "/dnccollect-page/static/media/mobile-yt-video.76d6045c.png",
+    "static/media/search-mobile.png": "/dnccollect-page/static/media/search-mobile.761e27d8.png",
+    "static/media/video-list.png": "/dnccollect-page/static/media/video-list.be4acd8c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b57b22ce.js",
-    "static/js/2.54280d9a.chunk.js",
-    "static/css/main.cfda8307.chunk.css",
-    "static/js/main.41b8b92b.chunk.js"
+    "static/js/runtime-main.e972a03c.js",
+    "static/js/2.ccf2559e.chunk.js",
+    "static/css/main.6a56ca3d.chunk.css",
+    "static/js/main.a2402b5b.chunk.js"
   ]
 }
